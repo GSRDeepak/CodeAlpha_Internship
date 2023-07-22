@@ -1,0 +1,62 @@
+body{
+background: radial-gradient(rgb(53, 51, 51),black)
+
+
+}
+div.container-fluid{
+    justify-content: center;
+    
+
+}
+.sports{
+    justify-content: center;
+align-items: center;
+    width: 100%; 
+    padding-top:7px;
+    padding-left: 95px;
+   margin-top: 10px;
+}
+.cards1{
+    margin-top: 50px;
+    width: 20rem;
+    background: transparent;
+color: aliceblue;
+border: 2px solid rgba(252, 252, 252, 0.7);
+}
+.box1{
+    height:75vh;
+    width:90%;
+    margin: 2% 4%;
+ 
+    background: rgba(255,255,255,0.1);
+    z-index:10;
+    display: flex;
+    position: relative;
+    border-radius: 20px;
+    border: 2px solid rgba(252, 252, 252, 0.7);
+    backdrop-filter: blur(0px);
+    box-shadow: -15px 17px 17px rgba(10,10,10,0.25);
+  }
+ 
+  .header1{
+    background: linear-gradient(black, rgb(18, 17, 17));
+    padding: 1.5% 5%;
+
+  }
+  .card-image{
+    padding-top: 15px;
+    padding-left: 15px;
+
+    justify-content: center;
+    width: 19rem;
+    height: 30vh;
+    display: flex;
+  }
+  .heading{
+    width: 85%;
+color: white;
+padding-left:5%;
+padding-top: 3%;
+padding-bottom: 0px;
+    font-size: 25px;  }
+  
